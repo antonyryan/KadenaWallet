@@ -1,0 +1,126 @@
+{
+  "pairs": {
+    "stage": {
+      "coin:kaddex.kdx": {
+        "name": "coin:kaddex.kdx",
+        "token0": "KDA",
+        "token1": "KDX",
+        "isBoosted": true
+      },
+      "coin:kaddex.abc": {
+        "name": "coin:kaddex.abc",
+        "token0": "KDA",
+        "token1": "ABC",
+        "isBoosted": true
+      },
+      "coin:kaddex.xyz": {
+        "name": "coin:kaddex.xyz",
+        "token0": "KDA",
+        "token1": "XYZ",
+        "isBoosted": false
+      }
+    },
+    "development": {
+      "coin:kaddex.kdx": {
+        "name": "coin:kaddex.kdx",
+        "token0": "KDA",
+        "token1": "KDX",
+        "isBoosted": true
+      },
+      "coin:kaddex.abc": {
+        "name": "coin:kaddex.abc",
+        "token0": "KDA",
+        "token1": "ABC",
+        "isBoosted": true
+      },
+      "coin:kaddex.xyz": {
+        "name": "coin:kaddex.xyz",
+        "token0": "KDA",
+        "token1": "XYZ",
+        "isBoosted": false
+      }
+    },
+    "mainnet": {
+      "coin:kaddex.kdx": {
+        "name": "coin:kaddex.kdx",
+        "token0": "KDA",
+        "token1": "KDX",
+        "main": true,
+        "isBoosted": true,
+        "color": "#ed1cb5"
+      },
+      "coin:runonflux.flux": {
+        "name": "coin:runonflux.flux",
+        "token0": "KDA",
+        "token1": "FLUX",
+        "main": true,
+        "isBoosted": false,
+        "color": "#5dcbe5"
+      },
+      "coin:hypercent.prod-hype-coin": {
+        "name": "coin:hypercent.prod-hype-coin",
+        "token0": "KDA",
+        "token1": "HYPE",
+        "main": true,
+        "isBoosted": false,
+        "color": "#ffa900"
+      },
+      "coin:mok.token": {
+        "name": "coin:mok.token",
+        "token0": "KDA",
+        "token1": "MOK",
+        "main": false,
+        "isBoosted": false,
+        "color": "#92187B"
+      },
+      "coin:lago.kwUSDC": {
+        "name": "coin:lago.kwUSDC",
+        "token0": "KDA",
+        "token1": "kwUSDC",
+        "main": false,
+        "isBoosted": false,
+        "color": "#292A45"
+      },
+      "coin:kdlaunch.token": {
+        "name": "coin:kdlaunch.token",
+        "token0": "KDA",
+        "token1": "KDL",
+        "main": false,
+        "isBoosted": false,
+        "color": "#4aa5b1"
+      },
+      "coin:kdlaunch.kdswap-token": {
+        "name": "coin:kdlaunch.kdswap-token",
+        "token0": "KDA",
+        "token1": "KDS",
+        "main": false,
+        "isBoosted": false,
+        "color": "#6ebbf2"
+      },
+      "coin:free.backalley": {
+        "name": "coin:free.backalley",
+        "token0": "KDA",
+        "token1": "BKA",
+        "main": false,
+        "isBoosted": false,
+        "color": "#822C8B"
+      },
+      "coin:free.kishu-ken": {
+        "name": "coin:free.kishu-ken",
+        "token0": "KDA",
+        "token1": "KISHK",
+        "main": false,
+        "isBoosted": false,
+        "color": "#EEAA7B"
+      },
+      "coin:free.kapybara-token": {
+        "name": "coin:free.kapybara-token",
+        "token0": "KDA",
+        "token1": "KAPY",
+        "main": false,
+        "isBoosted": false,
+        "color": "#EEAA7B"
+      }
+    }
+  }
+}

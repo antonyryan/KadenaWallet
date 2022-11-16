@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient-x-wallet" x1="0.134" y1="0.232" x2="0.586" y2="0.628" gradientUnits="objectBoundingBox">
+      <stop offset="0.138" stop-color="#bc0050"/>
+      <stop offset="0.24" stop-color="#cd2b3b"/>
+      <stop offset="0.347" stop-color="#dc5029"/>
+      <stop offset="0.458" stop-color="#e96f1a"/>
+      <stop offset="0.575" stop-color="#f2860e"/>
+      <stop offset="0.698" stop-color="#f99706"/>
+      <stop offset="0.832" stop-color="#fda101"/>
+      <stop offset="1" stop-color="orange"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-x-wallet-2" x1="-0.034" y1="0.996" x2="0.845" y2="0.089" gradientUnits="objectBoundingBox">
+      <stop offset="0.138" stop-color="#bc0050"/>
+      <stop offset="0.192" stop-color="#a02469"/>
+      <stop offset="0.276" stop-color="#7b578b"/>
+      <stop offset="0.364" stop-color="#5a84a9"/>
+      <stop offset="0.454" stop-color="#3eaac3"/>
+      <stop offset="0.548" stop-color="#27c9d8"/>
+      <stop offset="0.645" stop-color="#16e0e8"/>
+      <stop offset="0.748" stop-color="#09f1f4"/>
+      <stop offset="0.86" stop-color="#02fbfa"/>
+      <stop offset="1" stop-color="#00fffd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-x-wallet-3" x1="0.067" y1="0.073" x2="1.11" y2="0.99" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef0895"/>
+      <stop offset="0.286" stop-color="#ec0791"/>
+      <stop offset="0.516" stop-color="#e50687"/>
+      <stop offset="0.726" stop-color="#d80476"/>
+      <stop offset="0.924" stop-color="#c7015f"/>
+      <stop offset="1" stop-color="#bf0054"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_76807" data-name="Group 76807" transform="translate(-5610 49)">
+    <rect id="Rectangle_12998" data-name="Rectangle 12998" width="32" height="32" rx="16" transform="translate(5610 -49)" fill="#fff"/>
+    <g id="Group_75483" data-name="Group 75483" transform="translate(5612.371 -43)">
+      <g id="Group_75475" data-name="Group 75475" transform="translate(3.629)">
+        <g id="Group_75472" data-name="Group 75472" transform="translate(8.378 7.892)">
+          <path id="Path_71016" data-name="Path 71016" d="M284.458,156.7l1.656,1.916,6.78,7.841a.176.176,0,0,0,.134.061h2.542a.4.4,0,0,0,.312-.665l-1.771-2.048-6.152-7.112-1.976-2.284-1.526,1.768A.4.4,0,0,0,284.458,156.7Z" transform="translate(-284.361 -154.406)" fill="url(#linear-gradient-x-wallet)"/>
+        </g>
+        <path id="Path_71017" data-name="Path 71017" d="M299.63,98.89a.4.4,0,0,1,0-.523l7.775-8.988a.4.4,0,0,0-.313-.665H304.55a.178.178,0,0,0-.134.061l-6.762,7.83Z" transform="translate(-287.652 -88.714)" fill="url(#linear-gradient-x-wallet-2)"/>
+        <g id="Group_75474" data-name="Group 75474">
+          <g id="Group_75473" data-name="Group 75473" transform="translate(0 7.892)">
+            <path id="Path_71018" data-name="Path 71018" d="M227.3,156.7l-1.656,1.916-6.78,7.841a.176.176,0,0,1-.134.061h-2.542a.4.4,0,0,1-.313-.665l1.771-2.048,6.152-7.112,1.976-2.284,1.527,1.768A.4.4,0,0,1,227.3,156.7Z" transform="translate(-215.778 -154.406)" fill="#ef0896"/>
+          </g>
+          <path id="Path_71019" data-name="Path 71019" d="M224.867,98.89a.4.4,0,0,0,0-.523l-7.775-8.988a.4.4,0,0,1,.313-.665h2.542a.178.178,0,0,1,.134.061l6.762,7.83Z" transform="translate(-216.845 -88.714)" fill="url(#linear-gradient-x-wallet-3)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
